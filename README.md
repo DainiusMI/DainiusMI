@@ -11,6 +11,8 @@ Since my studies took place some time ago, I want to freshen up on things I've f
 - CSS / SCSS,
 - JavaScript
 
+
+![image](https://www.codewars.com/users/DainiusMI/badges/small)
 <!--
 **DainiusMI/DainiusMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
