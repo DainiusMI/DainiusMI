@@ -11,7 +11,7 @@ Since my studies took place some time ago, I want to freshen up on things I've f
 - CSS / SCSS,
 - JavaScript
 
-#### Certification I have received:
+#### Certifications I have received so far:
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/DainiusMI/javascript-algorithms-and-data-structures) at **freeCodeCamp**
 
 
