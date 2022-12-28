@@ -14,6 +14,7 @@ Since my studies took place some time ago, I want to freshen up on things I've f
 #### Certifications I have received so far:
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/DainiusMI/javascript-algorithms-and-data-structures) @ **freeCodeCamp**
 - [Responsive Web Design](https://www.freecodecamp.org/certification/DainiusMI/responsive-web-design) @ **freeCodeCamp**
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/DainiusMI/front-end-development-libraries) @ **freeCodeCamp** 
 
 <!--
 ![image](https://www.codewars.com/users/DainiusMI/badges/small)
